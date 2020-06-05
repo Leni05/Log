@@ -1,6 +1,5 @@
 package com.blog.JavaSpringBoot.log.config.rpc;
 
-
 import org.redisson.api.RedissonClient;
 import org.redisson.spring.data.connection.RedissonConnectionFactory;
 import org.springframework.context.annotation.Bean;
